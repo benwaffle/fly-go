@@ -13,7 +13,7 @@ import (
 	"time"
 
 	genq "github.com/Khan/genqlient/graphql"
-	"github.com/superfly/flyctl/api/tokens"
+	"github.com/superfly/fly-go/api/tokens"
 	"github.com/superfly/graphql"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
